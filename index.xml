@@ -125,10 +125,26 @@
     </item>
     
     <item>
+      <title>Gendered products act as the extended phenotype of human sexual dimorphism: They increase physical attractiveness and desirability</title>
+      <link>/publication/jbr20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/jbr20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Intelligent machines as social catalysts</title>
       <link>/publication/pnas20comment/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/publication/pnas20comment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine thinking, fast and slow</title>
+      <link>/publication/tics20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/tics20/</guid>
       <description></description>
     </item>
     
@@ -193,7 +209,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-872319564&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-769524138&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -203,7 +219,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-872319564&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-769524138&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

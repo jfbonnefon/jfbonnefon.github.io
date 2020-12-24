@@ -123,6 +123,11 @@
   </url>
   
   <url>
+    <loc>/publication/jbr20/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/author/horizon-2020-commission-expert-group-to-advise-on-specific-ethical-issues-raised-by-driverless-mobility-chair-jf-bonnefon/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -188,6 +193,11 @@
   </url>
   
   <url>
+    <loc>/publication/tics20/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/author/n-poirel/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -224,6 +234,11 @@
   
   <url>
     <loc>/publication/nat20/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/s-borau/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -429,11 +444,6 @@
   
   <url>
     <loc>/author/r-mcelreath/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/s-borau/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
