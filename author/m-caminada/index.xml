@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M Caminada | Jean-François Bonnefon</title>
+    <link>/author/m-caminada/</link>
+      <atom:link href="/author/m-caminada/index.xml" rel="self" type="application/rss+xml" />
+    <description>M Caminada</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>M Caminada</title>
+      <link>/author/m-caminada/</link>
+    </image>
+    
+    <item>
+      <title>Experimental assessment of aggregation principles in argumentation-enabled collective intelligence</title>
+      <link>/publication/acm17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/acm17/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

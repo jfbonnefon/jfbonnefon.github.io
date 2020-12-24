@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M Juanchich | Jean-François Bonnefon</title>
+    <link>/author/m-juanchich/</link>
+      <atom:link href="/author/m-juanchich/index.xml" rel="self" type="application/rss+xml" />
+    <description>M Juanchich</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>M Juanchich</title>
+      <link>/author/m-juanchich/</link>
+    </image>
+    
+    <item>
+      <title>Anxiety-induced miscalculations, more than differential inhibition of intuition, explain the gender gap in cognitive reflection</title>
+      <link>/publication/jbdm20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/jbdm20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The polite wiggle-room effect in charity donation decisions</title>
+      <link>/publication/jbdm19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/jbdm19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Verbal uncertainty</title>
+      <link>/publication/ox19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ox19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1-in-X bias: 1-in-X format causes overestimation of health-related risks</title>
+      <link>/publication/jep18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/jep18/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>H Fargier | Jean-François Bonnefon</title>
+    <link>/author/h-fargier/</link>
+      <atom:link href="/author/h-fargier/index.xml" rel="self" type="application/rss+xml" />
+    <description>H Fargier</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>H Fargier</title>
+      <link>/author/h-fargier/</link>
+    </image>
+    
+    <item>
+      <title>An overview of bipolar qualitative decision rules</title>
+      <link>/publication/ps08/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/ps08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the comparison of decisions having positive and negative features</title>
+      <link>/publication/jair08/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/jair08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qualitative heuristics for balancing the pros and cons</title>
+      <link>/publication/td08/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/td08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparing sets of positive and negative arguments: Empirical assessment of seven qualitative rules</title>
+      <link>/publication/ecai06/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/ecai06/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

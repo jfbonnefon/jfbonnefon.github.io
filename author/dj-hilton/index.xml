@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DJ Hilton | Jean-François Bonnefon</title>
+    <link>/author/dj-hilton/</link>
+      <atom:link href="/author/dj-hilton/index.xml" rel="self" type="application/rss+xml" />
+    <description>DJ Hilton</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2005 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>DJ Hilton</title>
+      <link>/author/dj-hilton/</link>
+    </image>
+    
+    <item>
+      <title>Getting the point of conditionals: An argumentative approach to the psychological interpretation of conditional premises</title>
+      <link>/publication/cii05/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/cii05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to do things with logical expressions: Creating collective value through co-ordination</title>
+      <link>/publication/intstud05/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/intstud05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Putting ifs to work: Goal-based relevance in conditional directives</title>
+      <link>/publication/jep05/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/jep05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consequential conditionals: Invited and suppressed inferences from valued outcomes</title>
+      <link>/publication/jep04/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/jep04/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The suppression of Modus Ponens as a case of pragmatic preconditional reasoning</title>
+      <link>/publication/tar02/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>/publication/tar02/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

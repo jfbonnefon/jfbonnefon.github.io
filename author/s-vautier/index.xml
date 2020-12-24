@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S Vautier | Jean-François Bonnefon</title>
+    <link>/author/s-vautier/</link>
+      <atom:link href="/author/s-vautier/index.xml" rel="self" type="application/rss+xml" />
+    <description>S Vautier</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>S Vautier</title>
+      <link>/author/s-vautier/</link>
+    </image>
+    
+    <item>
+      <title>A mixed Rasch model of dual-process conditional reasoning</title>
+      <link>/publication/qjep08/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/qjep08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Defective truth tables and falsifying cards: Two measurement models yield no evidence of an underlying fleshing-out propensity</title>
+      <link>/publication/tar08/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/tar08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Is the above average effect measurable at all? The validity of the self-reported happiness minus other&#39;s perceived happiness construct</title>
+      <link>/publication/apm08/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/apm08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling individual differences in contrapositive reasoning with continuous latent state and trait variables</title>
+      <link>/publication/pid07/pid07/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/pid07/pid07/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

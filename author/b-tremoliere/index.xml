@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>B Tremoliere | Jean-François Bonnefon</title>
+    <link>/author/b-tremoliere/</link>
+      <atom:link href="/author/b-tremoliere/index.xml" rel="self" type="application/rss+xml" />
+    <description>B Tremoliere</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>B Tremoliere</title>
+      <link>/author/b-tremoliere/</link>
+    </image>
+    
+    <item>
+      <title>Moral inferences</title>
+      <link>/publication/mi17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/mi17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reasoning and moral judgment: A common experimental toolbox</title>
+      <link>/publication/pp17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/pp17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intrasexual competition shapes men&#39;s anti-utilitarian moral decisions</title>
+      <link>/publication/eps15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/eps15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient kill-save ratios ease up the cognitive demands on counterintuitive moral utilitarianism</title>
+      <link>/publication/pspb14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/pspb14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The grim reasoner: Analytical reasoning under mortality salience</title>
+      <link>/publication/tar14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/tar14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The rationality of mortals: Thoughts of death disrupt analytic processing</title>
+      <link>/publication/pp14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/pp14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mortality salience and morality: Thinking about death makes people less utilitarian</title>
+      <link>/publication/cog12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/cog12/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

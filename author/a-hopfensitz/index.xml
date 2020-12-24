@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A Hopfensitz | Jean-François Bonnefon</title>
+    <link>/author/a-hopfensitz/</link>
+      <atom:link href="/author/a-hopfensitz/index.xml" rel="self" type="application/rss+xml" />
+    <description>A Hopfensitz</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>A Hopfensitz</title>
+      <link>/author/a-hopfensitz/</link>
+    </image>
+    
+    <item>
+      <title>Age-related neural correlates of facial trustworthiness detection during economic interaction</title>
+      <link>/publication/jnpe20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/jnpe20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can we detect cooperators by looking at their face?</title>
+      <link>/publication/cdips17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/cdips17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Split-second trustworthiness detection from faces in an economic game</title>
+      <link>/publication/ep17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/ep17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trustworthiness perception at zero acquaintance: consensus, accuracy, and prejudice</title>
+      <link>/publication/bbs17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/bbs17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adolescents gradually improve at detecting trustworthiness from the facial features of unknown adults</title>
+      <link>/publication/jep15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/jep15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Face-ism and kernels of truth in facial inferences</title>
+      <link>/publication/tics15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/tics15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low second-to-fourth digit ratio predicts indiscriminate social suspicion, not improved trustworthiness detection</title>
+      <link>/publication/bl13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/bl13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The modular nature of trustworthiness detection</title>
+      <link>/publication/jep13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/jep13/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

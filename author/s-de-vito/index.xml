@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S De Vito | Jean-François Bonnefon</title>
+    <link>/author/s-de-vito/</link>
+      <atom:link href="/author/s-de-vito/index.xml" rel="self" type="application/rss+xml" />
+    <description>S De Vito</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>S De Vito</title>
+      <link>/author/s-de-vito/</link>
+    </image>
+    
+    <item>
+      <title>Eye movements disrupt episodic future thinking</title>
+      <link>/publication/mem15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/mem15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eye movements disrupt spatial but not visual mental imagery</title>
+      <link>/publication/cp14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/cp14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>People believe each other to be selfish hedonic maximizers</title>
+      <link>/publication/pbr14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/pbr14/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

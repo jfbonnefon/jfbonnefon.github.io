@@ -1,0 +1,1252 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JF Bonnefon | Jean-François Bonnefon</title>
+    <link>/author/jf-bonnefon/</link>
+      <atom:link href="/author/jf-bonnefon/index.xml" rel="self" type="application/rss+xml" />
+    <description>JF Bonnefon</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>JF Bonnefon</title>
+      <link>/author/jf-bonnefon/</link>
+    </image>
+    
+    <item>
+      <title>Age-related neural correlates of facial trustworthiness detection during economic interaction</title>
+      <link>/publication/jnpe20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/jnpe20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anxiety-induced miscalculations, more than differential inhibition of intuition, explain the gender gap in cognitive reflection</title>
+      <link>/publication/jbdm20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/jbdm20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crowdsourcing moral machines</title>
+      <link>/publication/cacm20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/cacm20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Do learners declining to seek help conform to rational principles?</title>
+      <link>/publication/tar20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/tar20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drivers are blamed more than their automated cars when both make mistakes</title>
+      <link>/publication/nhb20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/nhb20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intelligent machines as social catalysts</title>
+      <link>/publication/pnas20comment/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/pnas20comment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reply to Claessens et al.: Maybe the footbridge sacrifice is indeed the only one that sends a negative social signal</title>
+      <link>/publication/pnas20-2/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/pnas20-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reply to: Life and death decisions of autonomous vehicles</title>
+      <link>/publication/nat20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/nat20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The moral psychology of AI and the ethical opt-out problem</title>
+      <link>/publication/ox20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/ox20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Universals and variations in moral decisions made in 42 countries by 70,000 participants</title>
+      <link>/publication/pnas20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/pnas20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Display Jupyter Notebooks with Academic</title>
+      <link>/post/jupyter/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/post/jupyter/</guid>
+      <description>&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
+Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;./index_1_0.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;print(&amp;quot;Welcome to Academic!&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;Welcome to Academic!
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;install-python-and-jupyterlab&#34;&gt;Install Python and JupyterLab&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.anaconda.com/distribution/#download-section&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Install Anaconda&lt;/a&gt; which includes Python 3 and JupyterLab.&lt;/p&gt;
+&lt;p&gt;Alternatively, install JupyterLab with &lt;code&gt;pip3 install jupyterlab&lt;/code&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;create-or-upload-a-jupyter-notebook&#34;&gt;Create or upload a Jupyter notebook&lt;/h2&gt;
+&lt;p&gt;Run the following commands in your Terminal, substituting &lt;code&gt;&amp;lt;MY-WEBSITE-FOLDER&amp;gt;&lt;/code&gt; and &lt;code&gt;&amp;lt;SHORT-POST-TITLE&amp;gt;&lt;/code&gt; with the file path to your Academic website folder and a short title for your blog post (use hyphens instead of spaces), respectively:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;mkdir -p &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
+cd &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
+jupyter lab index.ipynb
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;The &lt;code&gt;jupyter&lt;/code&gt; command above will launch the JupyterLab editor, allowing us to add Academic metadata and write the content.&lt;/p&gt;
+&lt;h2 id=&#34;edit-your-post-metadata&#34;&gt;Edit your post metadata&lt;/h2&gt;
+&lt;p&gt;The first cell of your Jupter notebook will contain your post metadata (
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/front-matter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;front matter&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;In Jupter, choose &lt;em&gt;Markdown&lt;/em&gt; as the type of the first cell and wrap your Academic metadata in three dashes, indicating that it is YAML front matter:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;---
+title: My post&#39;s title
+date: 2019-09-01
+
+# Put any other Academic metadata here...
+---
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Edit the metadata of your post, using the 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;documentation&lt;/a&gt; as a guide to the available options.&lt;/p&gt;
+&lt;p&gt;To set a 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#featured-image&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;featured image&lt;/a&gt;, place an image named &lt;code&gt;featured&lt;/code&gt; into your post&amp;rsquo;s folder.&lt;/p&gt;
+&lt;p&gt;For other tips, such as using math, see the guide on 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;writing content with Academic&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;convert-notebook-to-markdown&#34;&gt;Convert notebook to Markdown&lt;/h2&gt;
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir=.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
+&lt;p&gt;This post was created with Jupyter. The orginal files can be found at &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&#34;&gt;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Behavioural evidence for a transparency-efficiency tradeoff in human-machine cooperation</title>
+      <link>/publication/nmi19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/nmi19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Causal understanding is not necessary for the improvement of culturally evolving technology</title>
+      <link>/publication/nhb19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/nhb19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>La voiture qui en savait trop : l&#39;intelligence artificielle a-t-elle une morale ?</title>
+      <link>/publication/hum19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/hum19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine behaviour</title>
+      <link>/publication/nature19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/nature19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The imaginary intrasexual competition: Advertisements featuring provocative female models trigger women to engage in indirect aggression</title>
+      <link>/publication/jbe19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/jbe19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The polite wiggle-room effect in charity donation decisions</title>
+      <link>/publication/jbdm19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/jbdm19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The trolley, the bull bar, and why engineers should care about the ethics of autonomous cars</title>
+      <link>/publication/ieee19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ieee19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Verbal uncertainty</title>
+      <link>/publication/ox19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ox19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1-in-X bias: 1-in-X format causes overestimation of health-related risks</title>
+      <link>/publication/jep18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/jep18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cooperating with machines</title>
+      <link>/publication/natcom18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/natcom18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The moral machine experiment</title>
+      <link>/publication/nature18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/nature18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The pros and cons of identifying critical thinking with System 2 processing</title>
+      <link>/publication/top18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/top18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can we detect cooperators by looking at their face?</title>
+      <link>/publication/cdips17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/cdips17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental approaches to linguistic (im)politeness</title>
+      <link>/publication/palh17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/palh17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental assessment of aggregation principles in argumentation-enabled collective intelligence</title>
+      <link>/publication/acm17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/acm17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moral inferences</title>
+      <link>/publication/mi17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/mi17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Psychological roadblocks to the adoption of self-driving vehicles</title>
+      <link>/publication/nhb17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/nhb17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reasoning and moral judgment: A common experimental toolbox</title>
+      <link>/publication/pp17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/pp17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reasoning unbound: Thinking about morality, delusion, and democracy</title>
+      <link>/publication/pal17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/pal17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Split-second trustworthiness detection from faces in an economic game</title>
+      <link>/publication/ep17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/ep17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The advertising performance of non-ideal female models as a function of viewers&#39; body mass index: a moderated mediation analysis of two competing affective pathways</title>
+      <link>/publication/ija17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/ija17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trustworthiness perception at zero acquaintance: consensus, accuracy, and prejudice</title>
+      <link>/publication/bbs17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/bbs17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Value similarity and overall performance: Trust in responsible investment</title>
+      <link>/publication/sbr17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/sbr17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academic: the website builder for Hugo</title>
+      <link>/post/getting-started/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/post/getting-started/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or 
+&lt;a href=&#34;https://sourcethemes.com/academic/#expo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;👉 
+&lt;a href=&#34;#install&#34;&gt;&lt;strong&gt;Get Started&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📚 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;View the &lt;strong&gt;documentation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💬 
+&lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Ask a question&lt;/strong&gt; on the forum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;👥 
+&lt;a href=&#34;https://spectrum.chat/academic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chat with the &lt;strong&gt;community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🐦 Twitter: 
+&lt;a href=&#34;https://twitter.com/source_themes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@source_themes&lt;/a&gt; 
+&lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GeorgeCushen&lt;/a&gt; 
+&lt;a href=&#34;https://twitter.com/search?q=%23MadeWithAcademic&amp;amp;src=typd&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#MadeWithAcademic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💡 
+&lt;a href=&#34;https://github.com/gcushen/hugo-academic/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;⬆️ &lt;strong&gt;Updating?&lt;/strong&gt; View the 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Guide&lt;/a&gt; and 
+&lt;a href=&#34;https://sourcethemes.com/academic/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;❤️ &lt;strong&gt;Support development&lt;/strong&gt; of Academic:
+&lt;ul&gt;
+&lt;li&gt;☕️ 
+&lt;a href=&#34;https://paypal.me/cushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Donate a coffee&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💵 
+&lt;a href=&#34;https://www.patreon.com/cushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Become a backer on &lt;strong&gt;Patreon&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🖼️ 
+&lt;a href=&#34;https://www.redbubble.com/people/neutreno/works/34387919-academic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Decorate your laptop or journal with an Academic &lt;strong&gt;sticker&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;👕 
+&lt;a href=&#34;https://academic.threadless.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wear the &lt;strong&gt;T-shirt&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;👩‍💻 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/contribute/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Contribute&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-academic-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png&#34; data-caption=&#34;Academic is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34;&gt;
+
+
+  &lt;img src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Academic is mobile first with a responsive design to ensure that your site looks stunning on every device.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Key features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/page-builder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/jupyter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-rstudio&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable 
+&lt;a href=&#34;https://sourcethemes.com/academic/themes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and 
+&lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - 
+&lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;, 
+&lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 15+ language packs including English, 中文, and Português&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;p&gt;Academic comes with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can  choose their preferred mode - click the sun/moon icon in the top right of the 
+&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://sourcethemes.com/academic/themes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/customization/#custom-theme&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;customizable&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;
+&lt;a href=&#34;https://github.com/sourcethemes/academic-admin&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic Admin&lt;/a&gt;:&lt;/strong&gt; An admin tool to import publications from BibTeX or import assets for an offline site&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;
+&lt;a href=&#34;https://github.com/sourcethemes/academic-scripts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic Scripts&lt;/a&gt;:&lt;/strong&gt; Scripts to help migrate content to new versions of Academic&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;install&#34;&gt;Install&lt;/h2&gt;
+&lt;p&gt;You can choose from one of the following four methods to install:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-web-browser&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;one-click install using your web browser (recommended)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-git&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;install on your computer using &lt;strong&gt;Git&lt;/strong&gt; with the Command Prompt/Terminal app&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-zip&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;install on your computer by downloading the &lt;strong&gt;ZIP files&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-rstudio&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;install on your computer with &lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Then 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/get-started/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;personalize and deploy your new site&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;updating&#34;&gt;Updating&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;View the Update Guide&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Feel free to &lt;em&gt;star&lt;/em&gt; the project on 
+&lt;a href=&#34;https://github.com/gcushen/hugo-academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt; to help keep track of 
+&lt;a href=&#34;https://sourcethemes.com/academic/updates&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;updates&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;Copyright 2016-present 
+&lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Released under the 
+&lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Individual differences in reasoning, beyond ability and disposition</title>
+      <link>/publication/mit16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/mit16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introducing a fund for open-access fees</title>
+      <link>/publication/cog16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/cog16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New paradigm psychology of reasoning: Basic and applied perspectives</title>
+      <link>/publication/rout16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/rout16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting behavior on the basis of arguments from consequences</title>
+      <link>/publication/cp16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/cp16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The social dilemma of autonomous vehicles</title>
+      <link>/publication/sci16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/sci16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adolescents gradually improve at detecting trustworthiness from the facial features of unknown adults</title>
+      <link>/publication/jep15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/jep15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conditional sentences create a blind spot in theory of mind during narrative comprehension</title>
+      <link>/publication/ap15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/ap15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eye movements disrupt episodic future thinking</title>
+      <link>/publication/mem15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/mem15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eye movements reveal how readers infer intentions from the beliefs and desires of others</title>
+      <link>/publication/ep15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/ep15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Face-ism and kernels of truth in facial inferences</title>
+      <link>/publication/tics15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/tics15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intrasexual competition shapes men&#39;s anti-utilitarian moral decisions</title>
+      <link>/publication/eps15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/eps15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-reflective thinkers are predisposed to attribute supernatural causation to uncanny experiences</title>
+      <link>/publication/pspb15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/pspb15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>People&#39;s views about the acceptability of remuneration policies and executive bonuses</title>
+      <link>/publication/jbe15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/jbe15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Some but not all dispreferred turn markers help to interpret scalar terms in polite contexts</title>
+      <link>/publication/tar15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/tar15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analytical reasoning task reveals limits of social learning in networks</title>
+      <link>/publication/rsi14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/rsi14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient kill-save ratios ease up the cognitive demands on counterintuitive moral utilitarianism</title>
+      <link>/publication/pspb14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/pspb14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eye movements disrupt spatial but not visual mental imagery</title>
+      <link>/publication/cp14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/cp14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intelligence artificielle et psychologie du raisonnement et de la décision</title>
+      <link>/publication/cep14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/cep14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Legitimacy of executive compensation plans: A preliminary study of French laypersons&#39; acceptability</title>
+      <link>/publication/psi14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/psi14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>People believe each other to be selfish hedonic maximizers</title>
+      <link>/publication/pbr14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/pbr14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Politeness and reasoning: Face, connectives, and quantifiers</title>
+      <link>/publication/ox14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/ox14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The grim reasoner: Analytical reasoning under mortality salience</title>
+      <link>/publication/tar14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/tar14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The rationality of mortals: Thoughts of death disrupt analytic processing</title>
+      <link>/publication/pp14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/pp14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can mutualistic morality predict how individuals deal with benefits they did not deserve?</title>
+      <link>/publication/bbs13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/bbs13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decision makers use norms, not cost-benefit analysis, when choosing to conceal or reveal unfair rewards</title>
+      <link>/publication/plos13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/plos13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formal models of reasoning in cognitive psychology</title>
+      <link>/publication/ac13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/ac13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low second-to-fourth digit ratio predicts indiscriminate social suspicion, not improved trustworthiness detection</title>
+      <link>/publication/bl13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/bl13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New ambitions for a new paradigm: Putting the psychology of reasoning at the service of humanity</title>
+      <link>/publication/tar13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/tar13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>People are more likely to be insincere when they are more likely to accidentally tell the truth</title>
+      <link>/publication/qjep13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/qjep13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Politeness and honesty contribute additively to the interpretation of scalar expressions</title>
+      <link>/publication/jlsp13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/jlsp13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The causal structure of utility conditionals</title>
+      <link>/publication/cogsci13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/cogsci13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The modular nature of trustworthiness detection</title>
+      <link>/publication/jep13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/jep13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The whys and whens of individual differences in thinking biases</title>
+      <link>/publication/tics13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/tics13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Utility templates for the interpretation of conditional statements</title>
+      <link>/publication/jml13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/jml13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Le raisonnement</title>
+      <link>/publication/msh12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/msh12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mortality salience and morality: Thinking about death makes people less utilitarian</title>
+      <link>/publication/cog12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/cog12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qualitative and quantitative conditions for the transitivity of perceived causation: Theoretical and experimental results</title>
+      <link>/publication/amai12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/amai12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The psychology of reasoning about preferences and unconsequential decisions</title>
+      <link>/publication/syn12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/syn12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Utility conditionals as consequential arguments: A random sampling experiment</title>
+      <link>/publication/tar12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/tar12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Facework and uncertain reasoning in health communication</title>
+      <link>/publication/pec11/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/pec11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Le raisonneur et ses modeles: Un changement de paradigme dans la psychologie du raisonnement</title>
+      <link>/publication/pug11/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/pug11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Norms for reasoning about decisions</title>
+      <link>/publication/bbs11/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/bbs11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Overcoming number numbness in prenatal risk communication</title>
+      <link>/publication/pd11/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/pd11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pragmatics, mental models, and one paradox of the material conditional</title>
+      <link>/publication/ml11/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/ml11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Processing scalar inferences in face-threatening contexts</title>
+      <link>/publication/cogsci11/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/cogsci11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The 1-in-X effect on the subjective assessment of medical probabilities</title>
+      <link>/publication/mdm11/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/mdm11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The doctrinal paradox, a new challenge for behavioral psychologists</title>
+      <link>/publication/aps11-2/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/aps11-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The experimental approach to trust in socially responsible funds</title>
+      <link>/publication/bing11/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/bing11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The risk of polite misunderstandings</title>
+      <link>/publication/cdps11/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/cdps11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhi zai zhong guo ren de jia she si wei zhong de jue se</title>
+      <link>/publication/aps11/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/aps11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Behavioral evidence for framing effects in the resolution of the doctrinal paradox</title>
+      <link>/publication/socwel10/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/socwel10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Behavioral experiments for assessing the abstract argumentation semantics of reinstatement</title>
+      <link>/publication/cogsci10-2/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/cogsci10-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computer-mediated trust in self-interested expert recommendations</title>
+      <link>/publication/aisoc10/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/aisoc10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deduction from if-then personality signatures</title>
+      <link>/publication/tar10/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/tar10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experiments for assessing floating reinstatement in argument-based reasoning</title>
+      <link>/publication/cogsci10/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/cogsci10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modern psychometrics for the experimental psychology of reasoning</title>
+      <link>/publication/aps10/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/aps10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pragmatic conditionals, conditional pragmatics, and the pragmatic component of conditional reasoning</title>
+      <link>/publication/bonpol10/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/bonpol10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two aspects of reasoning competence: A challenge for current accounts and a call for new conceptual tools</title>
+      <link>/publication/polbon10/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/polbon10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A theory of utility conditionals: Paralogical reasoning from decision-theoretic leakage</title>
+      <link>/publication/prev09/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/prev09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Active involvement, not illusory control, increases risk taking in a gambling game</title>
+      <link>/publication/qjep09/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/qjep09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Let us not put the probabilistic cart before the uncertainty bull</title>
+      <link>/publication/bbs09/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/bbs09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Politeness and conditional reasoning: Interpersonal cues to the indirect suppression of deductive inferences</title>
+      <link>/publication/jep09/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/jep09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relation of trust and social emotions: A logical approach</title>
+      <link>/publication/iat09/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/iat09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>When some is actually all: Scalar inferences in face-threatening contexts</title>
+      <link>/publication/cog09/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/cog09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A comparative study of six formal models of causal ascription</title>
+      <link>/publication/sum08/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/sum08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A mixed Rasch model of dual-process conditional reasoning</title>
+      <link>/publication/qjep08/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/qjep08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An overview of bipolar qualitative decision rules</title>
+      <link>/publication/ps08/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/ps08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Defective truth tables and falsifying cards: Two measurement models yield no evidence of an underlying fleshing-out propensity</title>
+      <link>/publication/tar08/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/tar08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Is the above average effect measurable at all? The validity of the self-reported happiness minus other&#39;s perceived happiness construct</title>
+      <link>/publication/apm08/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/apm08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the comparison of decisions having positive and negative features</title>
+      <link>/publication/jair08/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/jair08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting causality ascriptions from background knowledge: Model and experimental validation</title>
+      <link>/publication/ijar08/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/ijar08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qualitative heuristics for balancing the pros and cons</title>
+      <link>/publication/td08/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/td08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The intensity of recent and distant life regrets: An integrative model and a large scale survey</title>
+      <link>/publication/acp08/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/acp08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transitive observation-based causation, saliency, and the Markov condition</title>
+      <link>/publication/sum08-2/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/sum08-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two routes for bipolar information processing, and a blind spot in between</title>
+      <link>/publication/ijis08/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/ijis08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Utilitarian relevance and face-management in the interpretation of ambiguous question/request statements</title>
+      <link>/publication/mc08/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/mc08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How do individuals solve the doctrinal paradox in collective decisions? An empirical investigation</title>
+      <link>/publication/ps07/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/ps07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling individual differences in contrapositive reasoning with continuous latent state and trait variables</title>
+      <link>/publication/pid07/pid07/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/pid07/pid07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modus Tollens, Modus Shmollens: Conversational effects on contrapositive reasoning</title>
+      <link>/publication/tar07/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/tar07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reasons to act and the mental representation of consequentialist aberrations</title>
+      <link>/publication/bbs07/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/bbs07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The logical handling of threats, rewards, tips, and warnings</title>
+      <link>/publication/ecsqaru07/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/ecsqaru07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Background default knowledge and causality ascriptions</title>
+      <link>/publication/ecai062/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/ecai062/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparing sets of positive and negative arguments: Empirical assessment of seven qualitative rules</title>
+      <link>/publication/ecai06/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/ecai06/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tactful or doubtful? Expectations of politeness explain the severity bias in the interpretation of probability phrases</title>
+      <link>/publication/ps06/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/ps06/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two varieties of conditionals and two kinds of defeaters help reveal two fundamental types of reasoning</title>
+      <link>/publication/ml06/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/ml06/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An argumentation-based approach to multiple criteria decision</title>
+      <link>/publication/ecsqaru05/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/ecsqaru05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An overview of possibilistic handling of default reasoning, with experimental studies</title>
+      <link>/publication/syn05/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/syn05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Between-subject or within-subject measures of regret: dilemma and solution</title>
+      <link>/publication/jesp05/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/jesp05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Communicating likelihood and managing face: Can we say it is probable when we know it to be certain?</title>
+      <link>/publication/cogsci051/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/cogsci051/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Getting the point of conditionals: An argumentative approach to the psychological interpretation of conditional premises</title>
+      <link>/publication/cii05/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/cii05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to do things with logical expressions: Creating collective value through co-ordination</title>
+      <link>/publication/intstud05/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/intstud05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Putting ifs to work: Goal-based relevance in conditional directives</title>
+      <link>/publication/jep05/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/jep05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An experimental analysis of possibilistic default reasoning</title>
+      <link>/publication/kr04/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/kr04/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consequential conditionals: Invited and suppressed inferences from valued outcomes</title>
+      <link>/publication/jep04/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/jep04/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reinstatement, floating conclusions, and the credulity of mental model reasoning</title>
+      <link>/publication/cogsci04/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/cogsci04/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An empirical test for patterns of nonmonotonic inference</title>
+      <link>/publication/amai02/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>/publication/amai02/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The suppression of Modus Ponens as a case of pragmatic preconditional reasoning</title>
+      <link>/publication/tar02/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>/publication/tar02/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

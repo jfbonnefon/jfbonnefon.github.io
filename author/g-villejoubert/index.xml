@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>G Villejoubert | Jean-François Bonnefon</title>
+    <link>/author/g-villejoubert/</link>
+      <atom:link href="/author/g-villejoubert/index.xml" rel="self" type="application/rss+xml" />
+    <description>G Villejoubert</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>G Villejoubert</title>
+      <link>/author/g-villejoubert/</link>
+    </image>
+    
+    <item>
+      <title>When some is actually all: Scalar inferences in face-threatening contexts</title>
+      <link>/publication/cog09/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/cog09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modus Tollens, Modus Shmollens: Conversational effects on contrapositive reasoning</title>
+      <link>/publication/tar07/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/tar07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tactful or doubtful? Expectations of politeness explain the severity bias in the interpretation of probability phrases</title>
+      <link>/publication/ps06/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/ps06/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Communicating likelihood and managing face: Can we say it is probable when we know it to be certain?</title>
+      <link>/publication/cogsci051/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/cogsci051/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to do things with logical expressions: Creating collective value through co-ordination</title>
+      <link>/publication/intstud05/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/intstud05/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

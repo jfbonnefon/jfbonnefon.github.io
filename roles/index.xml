@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Roles | Jean-François Bonnefon</title>
+    <link>/roles/</link>
+      <atom:link href="/roles/index.xml" rel="self" type="application/rss+xml" />
+    <description>Roles</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Roles</title>
+      <link>/roles/</link>
+    </image>
+    
+    <item>
+      <title>Chair</title>
+      <link>/roles/hceres/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/roles/hceres/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chair</title>
+      <link>/roles/moralai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/roles/moralai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Director</title>
+      <link>/roles/clle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/roles/clle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Head</title>
+      <link>/roles/digitalcenter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/roles/digitalcenter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Member</title>
+      <link>/roles/anr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/roles/anr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Member</title>
+      <link>/roles/cnfps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/roles/cnfps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Member</title>
+      <link>/roles/iast-hiring/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/roles/iast-hiring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Member</title>
+      <link>/roles/iast-steering/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/roles/iast-steering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Member</title>
+      <link>/roles/iuf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/roles/iuf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Member</title>
+      <link>/roles/section26/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/roles/section26/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Member</title>
+      <link>/roles/sport/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/roles/sport/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Member</title>
+      <link>/roles/tulip/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/roles/tulip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Member</title>
+      <link>/roles/xsys/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/roles/xsys/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>President</title>
+      <link>/roles/ec/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/roles/ec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>President</title>
+      <link>/roles/irb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/roles/irb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Senior Associate Editor</title>
+      <link>/roles/cognition/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/roles/cognition/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

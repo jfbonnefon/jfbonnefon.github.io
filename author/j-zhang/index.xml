@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J Zhang | Jean-François Bonnefon</title>
+    <link>/author/j-zhang/</link>
+      <atom:link href="/author/j-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>J Zhang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>J Zhang</title>
+      <link>/author/j-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Zhi zai zhong guo ren de jia she si wei zhong de jue se</title>
+      <link>/publication/aps11/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/aps11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The intensity of recent and distant life regrets: An integrative model and a large scale survey</title>
+      <link>/publication/acp08/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/acp08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Between-subject or within-subject measures of regret: dilemma and solution</title>
+      <link>/publication/jesp05/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/jesp05/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D Dubois | Jean-François Bonnefon</title>
+    <link>/author/d-dubois/</link>
+      <atom:link href="/author/d-dubois/index.xml" rel="self" type="application/rss+xml" />
+    <description>D Dubois</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>D Dubois</title>
+      <link>/author/d-dubois/</link>
+    </image>
+    
+    <item>
+      <title>Qualitative and quantitative conditions for the transitivity of perceived causation: Theoretical and experimental results</title>
+      <link>/publication/amai12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/amai12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A comparative study of six formal models of causal ascription</title>
+      <link>/publication/sum08/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/sum08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An overview of bipolar qualitative decision rules</title>
+      <link>/publication/ps08/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/ps08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the comparison of decisions having positive and negative features</title>
+      <link>/publication/jair08/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/jair08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting causality ascriptions from background knowledge: Model and experimental validation</title>
+      <link>/publication/ijar08/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/ijar08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qualitative heuristics for balancing the pros and cons</title>
+      <link>/publication/td08/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/td08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transitive observation-based causation, saliency, and the Markov condition</title>
+      <link>/publication/sum08-2/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/sum08-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Background default knowledge and causality ascriptions</title>
+      <link>/publication/ecai062/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/ecai062/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

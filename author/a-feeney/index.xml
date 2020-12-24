@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A Feeney | Jean-François Bonnefon</title>
+    <link>/author/a-feeney/</link>
+      <atom:link href="/author/a-feeney/index.xml" rel="self" type="application/rss+xml" />
+    <description>A Feeney</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>A Feeney</title>
+      <link>/author/a-feeney/</link>
+    </image>
+    
+    <item>
+      <title>Politeness and honesty contribute additively to the interpretation of scalar expressions</title>
+      <link>/publication/jlsp13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/jlsp13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Processing scalar inferences in face-threatening contexts</title>
+      <link>/publication/cogsci11/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/cogsci11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The risk of polite misunderstandings</title>
+      <link>/publication/cdps11/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/cdps11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>When some is actually all: Scalar inferences in face-threatening contexts</title>
+      <link>/publication/cog09/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/cog09/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

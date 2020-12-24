@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S Dsouza | Jean-François Bonnefon</title>
+    <link>/author/s-dsouza/</link>
+      <atom:link href="/author/s-dsouza/index.xml" rel="self" type="application/rss+xml" />
+    <description>S Dsouza</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>S Dsouza</title>
+      <link>/author/s-dsouza/</link>
+    </image>
+    
+    <item>
+      <title>Crowdsourcing moral machines</title>
+      <link>/publication/cacm20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/cacm20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drivers are blamed more than their automated cars when both make mistakes</title>
+      <link>/publication/nhb20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/nhb20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reply to Claessens et al.: Maybe the footbridge sacrifice is indeed the only one that sends a negative social signal</title>
+      <link>/publication/pnas20-2/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/pnas20-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reply to: Life and death decisions of autonomous vehicles</title>
+      <link>/publication/nat20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/nat20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Universals and variations in moral decisions made in 42 countries by 70,000 participants</title>
+      <link>/publication/pnas20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/pnas20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The moral machine experiment</title>
+      <link>/publication/nature18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/nature18/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

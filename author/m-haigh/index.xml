@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M Haigh | Jean-François Bonnefon</title>
+    <link>/author/m-haigh/</link>
+      <atom:link href="/author/m-haigh/index.xml" rel="self" type="application/rss+xml" />
+    <description>M Haigh</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>M Haigh</title>
+      <link>/author/m-haigh/</link>
+    </image>
+    
+    <item>
+      <title>Conditional sentences create a blind spot in theory of mind during narrative comprehension</title>
+      <link>/publication/ap15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/ap15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eye movements reveal how readers infer intentions from the beliefs and desires of others</title>
+      <link>/publication/ep15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/ep15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Utility templates for the interpretation of conditional statements</title>
+      <link>/publication/jml13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/jml13/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

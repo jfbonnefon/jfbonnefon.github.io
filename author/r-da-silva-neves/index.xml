@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R Da Silva Neves | Jean-François Bonnefon</title>
+    <link>/author/r-da-silva-neves/</link>
+      <atom:link href="/author/r-da-silva-neves/index.xml" rel="self" type="application/rss+xml" />
+    <description>R Da Silva Neves</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>R Da Silva Neves</title>
+      <link>/author/r-da-silva-neves/</link>
+    </image>
+    
+    <item>
+      <title>A comparative study of six formal models of causal ascription</title>
+      <link>/publication/sum08/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/sum08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting causality ascriptions from background knowledge: Model and experimental validation</title>
+      <link>/publication/ijar08/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/ijar08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Background default knowledge and causality ascriptions</title>
+      <link>/publication/ecai062/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/ecai062/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An overview of possibilistic handling of default reasoning, with experimental studies</title>
+      <link>/publication/syn05/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/syn05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An experimental analysis of possibilistic default reasoning</title>
+      <link>/publication/kr04/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/kr04/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An empirical test for patterns of nonmonotonic inference</title>
+      <link>/publication/amai02/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>/publication/amai02/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
