@@ -34,12 +34,87 @@
   
   <url>
     <loc>/publication-type/2/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/i-rahwan/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jf-bonnefon/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/tics20/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication-type/4/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/horizon20/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/horizon-2020-commission-expert-group-to-advise-on-specific-ethical-issues-raised-by-driverless-mobility-chair-jf-bonnefon/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/a-shariff/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/nhb20/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/e-awad/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jb-tenenbaum/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/m-kleiman-weiner/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/s-dsouza/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/s-levine/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -49,11 +124,6 @@
   
   <url>
     <loc>/author/a-hopfensitz/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/a-shariff/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -73,11 +143,6 @@
   </url>
   
   <url>
-    <loc>/authors/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/cacm20/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -88,22 +153,7 @@
   </url>
   
   <url>
-    <loc>/publication/nhb20/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/e-awad/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/e-salvia/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/horizon20/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -128,16 +178,6 @@
   </url>
   
   <url>
-    <loc>/author/horizon-2020-commission-expert-group-to-advise-on-specific-ethical-issues-raised-by-driverless-mobility-chair-jf-bonnefon/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/i-rahwan/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/pnas20comment/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -158,16 +198,6 @@
   </url>
   
   <url>
-    <loc>/author/jb-tenenbaum/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/jf-bonnefon/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/k-mevel/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -178,22 +208,12 @@
   </url>
   
   <url>
-    <loc>/author/m-kleiman-weiner/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/m-miranda-lery-santos/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/author/m-sirota/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/tics20/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -209,16 +229,6 @@
   
   <url>
     <loc>/author/o-houde/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -239,16 +249,6 @@
   
   <url>
     <loc>/author/s-borau/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/s-dsouza/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/s-levine/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   

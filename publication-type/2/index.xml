@@ -5,12 +5,28 @@
     <link>/publication-type/2/</link>
       <atom:link href="/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>2</title>
       <link>/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>Machine thinking, fast and slow</title>
+      <link>/publication/tics20/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/tics20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drivers are blamed more than their automated cars when both make mistakes</title>
+      <link>/publication/nhb20/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/nhb20/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Age-related neural correlates of facial trustworthiness detection during economic interaction</title>
@@ -45,14 +61,6 @@
     </item>
     
     <item>
-      <title>Drivers are blamed more than their automated cars when both make mistakes</title>
-      <link>/publication/nhb20/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/nhb20/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Gendered products act as the extended phenotype of human sexual dimorphism: They increase physical attractiveness and desirability</title>
       <link>/publication/jbr20/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
@@ -65,14 +73,6 @@
       <link>/publication/pnas20comment/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/publication/pnas20comment/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Machine thinking, fast and slow</title>
-      <link>/publication/tics20/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/tics20/</guid>
       <description></description>
     </item>
     

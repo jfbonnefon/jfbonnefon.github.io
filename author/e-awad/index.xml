@@ -5,7 +5,7 @@
     <link>/author/e-awad/</link>
       <atom:link href="/author/e-awad/index.xml" rel="self" type="application/rss+xml" />
     <description>E Awad</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>E Awad</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Crowdsourcing moral machines</title>
-      <link>/publication/cacm20/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/cacm20/</guid>
+      <title>Drivers are blamed more than their automated cars when both make mistakes</title>
+      <link>/publication/nhb20/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/nhb20/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Drivers are blamed more than their automated cars when both make mistakes</title>
-      <link>/publication/nhb20/</link>
+      <title>Crowdsourcing moral machines</title>
+      <link>/publication/cacm20/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/nhb20/</guid>
+      <guid>/publication/cacm20/</guid>
       <description></description>
     </item>
     

@@ -77,6 +77,30 @@
     </item>
     
     <item>
+      <title>Machine thinking, fast and slow</title>
+      <link>/publication/tics20/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/tics20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ethics of Connected and Automated Vehicles: recommendations on road safety, privacy, fairness, explainability and responsibility</title>
+      <link>/publication/horizon20/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/horizon20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drivers are blamed more than their automated cars when both make mistakes</title>
+      <link>/publication/nhb20/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/nhb20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Age-related neural correlates of facial trustworthiness detection during economic interaction</title>
       <link>/publication/jnpe20/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
@@ -109,22 +133,6 @@
     </item>
     
     <item>
-      <title>Drivers are blamed more than their automated cars when both make mistakes</title>
-      <link>/publication/nhb20/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/nhb20/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ethics of Connected and Automated Vehicles: recommendations on road safety, privacy, fairness, explainability and responsibility</title>
-      <link>/publication/horizon20/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/horizon20/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Gendered products act as the extended phenotype of human sexual dimorphism: They increase physical attractiveness and desirability</title>
       <link>/publication/jbr20/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
@@ -137,14 +145,6 @@
       <link>/publication/pnas20comment/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/publication/pnas20comment/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Machine thinking, fast and slow</title>
-      <link>/publication/tics20/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/tics20/</guid>
       <description></description>
     </item>
     
@@ -209,7 +209,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-769524138&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-598146237&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -219,7 +219,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-769524138&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-598146237&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -243,7 +243,7 @@ data.head()
 1-p_0^* &amp;amp; \text {if }k=0.\end{cases}$$
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;renders as&lt;/p&gt;
-&lt;p&gt;$$f(k;p_0^&lt;em&gt;) = \begin{cases} p_0^&lt;/em&gt; &amp;amp; \text{if }k=1, \\&lt;br&gt;
+&lt;p&gt;$$f(k;p_0^*) = \begin{cases} p_0^* &amp;amp; \text{if }k=1, \\&lt;br&gt;
 1-p_0^* &amp;amp; \text {if }k=0.\end{cases}$$&lt;/p&gt;
 &lt;h3 id=&#34;diagrams&#34;&gt;Diagrams&lt;/h3&gt;
 &lt;p&gt;Academic supports a Markdown extension for diagrams. You can enable this feature by toggling the &lt;code&gt;diagram&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file or by adding &lt;code&gt;diagram: true&lt;/code&gt; to your page front matter.&lt;/p&gt;
