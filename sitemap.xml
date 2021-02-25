@@ -34,16 +34,46 @@
   
   <url>
     <loc>/publication-type/2/</loc>
-    <lastmod>2021-01-06T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication-type/6/</loc>
-    <lastmod>2021-01-06T00:00:00+00:00</lastmod>
+    <loc>/author/a-shariff/</loc>
+    <lastmod>2021-02-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
+    <lastmod>2021-02-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/trpc21/</loc>
+    <lastmod>2021-02-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/i-rahwan/</loc>
+    <lastmod>2021-02-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jf-bonnefon/</loc>
+    <lastmod>2021-02-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2021-02-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2021-02-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/6/</loc>
     <lastmod>2021-01-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -58,21 +88,6 @@
   </url>
   
   <url>
-    <loc>/author/jf-bonnefon/</loc>
-    <lastmod>2021-01-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2021-01-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2021-01-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/mit20/</loc>
     <lastmod>2021-01-06T00:00:00+00:00</lastmod>
   </url>
@@ -80,11 +95,6 @@
   <url>
     <loc>/author/w-de-neys/</loc>
     <lastmod>2021-01-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/i-rahwan/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -105,11 +115,6 @@
   <url>
     <loc>/author/horizon-2020-commission-expert-group-to-advise-on-specific-ethical-issues-raised-by-driverless-mobility-chair-jf-bonnefon/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/a-shariff/</loc>
-    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>

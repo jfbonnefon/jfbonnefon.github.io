@@ -77,6 +77,14 @@
     </item>
     
     <item>
+      <title>How safe is safe enough? Psychological mechanisms underlying extreme safety demands for self-driving cars</title>
+      <link>/publication/trpc21/</link>
+      <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/trpc21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Intuition rather than deliberation determines selfish and prosocial choices</title>
       <link>/publication/jep21/</link>
       <pubDate>Wed, 06 Jan 2021 00:00:00 +0000</pubDate>
@@ -225,7 +233,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-461237589&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-498723156&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -235,7 +243,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-461237589&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-498723156&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
