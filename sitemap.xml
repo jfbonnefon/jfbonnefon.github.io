@@ -33,12 +33,37 @@
   </url>
   
   <url>
-    <loc>/publication-type/2/</loc>
-    <lastmod>2021-04-30T00:00:00+00:00</lastmod>
+    <loc>/publication-type/5/</loc>
+    <lastmod>2021-05-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
+    <lastmod>2021-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jf-bonnefon/</loc>
+    <lastmod>2021-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2021-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2021-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/bookmit21/</loc>
+    <lastmod>2021-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/2/</loc>
     <lastmod>2021-04-30T00:00:00+00:00</lastmod>
   </url>
   
@@ -53,22 +78,7 @@
   </url>
   
   <url>
-    <loc>/author/jf-bonnefon/</loc>
-    <lastmod>2021-04-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/n-kobis/</loc>
-    <lastmod>2021-04-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2021-04-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
     <lastmod>2021-04-30T00:00:00+00:00</lastmod>
   </url>
   
@@ -370,11 +380,6 @@
   <url>
     <loc>/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication-type/5/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
