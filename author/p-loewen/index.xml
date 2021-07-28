@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P Loewen | Jean-François Bonnefon</title>
+    <link>/author/p-loewen/</link>
+      <atom:link href="/author/p-loewen/index.xml" rel="self" type="application/rss+xml" />
+    <description>P Loewen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>P Loewen</title>
+      <link>/author/p-loewen/</link>
+    </image>
+    
+    <item>
+      <title>Who should be first in line for the covid-19 vaccine? Surveys in 13 countries of the public&#39;s preferences for prioritisation</title>
+      <link>/publication/pnas21/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/pnas21/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

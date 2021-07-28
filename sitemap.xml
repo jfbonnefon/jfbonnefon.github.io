@@ -33,38 +33,128 @@
   </url>
   
   <url>
-    <loc>/publication-type/5/</loc>
-    <lastmod>2021-05-10T00:00:00+00:00</lastmod>
+    <loc>/publication-type/2/</loc>
+    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/a-barnett/</loc>
+    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/a-melegaro/</loc>
+    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/ag-cruz/</loc>
+    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2021-05-10T00:00:00+00:00</lastmod>
+    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/j-friedman/</loc>
+    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/j-seither/</loc>
+    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/j-vargas/</loc>
+    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/author/jf-bonnefon/</loc>
-    <lastmod>2021-05-10T00:00:00+00:00</lastmod>
+    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/lsj-roope/</loc>
+    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/m-blanco/</loc>
+    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/m-violato/</loc>
+    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/mf-becerra/</loc>
+    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/p-candio/</loc>
+    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/p-loewen/</loc>
+    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/p-mamidi/</loc>
+    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/pm-clarke/</loc>
+    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication_types/</loc>
-    <lastmod>2021-05-10T00:00:00+00:00</lastmod>
+    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/</loc>
+    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/r-duch/</loc>
+    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/t-robinson/</loc>
+    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/pnas21/</loc>
+    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/x-hua/</loc>
+    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/5/</loc>
     <lastmod>2021-05-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/bookmit21/</loc>
     <lastmod>2021-05-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication-type/2/</loc>
-    <lastmod>2021-01-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -93,11 +183,6 @@
   </url>
   
   <url>
-    <loc>/author/a-melegaro/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/a-shariff/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -123,21 +208,6 @@
   </url>
   
   <url>
-    <loc>/author/j-friedman/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/lsj-roope/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/m-violato/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/n-kobis/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -148,17 +218,7 @@
   </url>
   
   <url>
-    <loc>/author/pm-clarke/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/natmed21/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/r-duch/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
   
