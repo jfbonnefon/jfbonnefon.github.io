@@ -1713,6 +1713,10 @@
   </url>
   
   <url>
+    <loc>/roles/iast-scidir/</loc>
+  </url>
+  
+  <url>
     <loc>/roles/cognition/</loc>
   </url>
   
