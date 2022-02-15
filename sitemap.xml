@@ -1669,6 +1669,10 @@
   </url>
   
   <url>
+    <loc>/roles/diip/</loc>
+  </url>
+  
+  <url>
     <loc>/roles/ec-2/</loc>
   </url>
   
