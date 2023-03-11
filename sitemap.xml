@@ -1742,4 +1742,8 @@
     <loc>/roles/cognition/</loc>
   </url>
   
+  <url>
+    <loc>/roles/irb-2/</loc>
+  </url>
+  
 </urlset>
