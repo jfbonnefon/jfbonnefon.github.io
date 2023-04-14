@@ -43,7 +43,22 @@
   </url>
   
   <url>
+    <loc>/publication/bbs23b/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/author/jf-bonnefon/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/katiyar-t/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/mehr-sa/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -59,6 +74,11 @@
   
   <url>
     <loc>/publication/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/singh-m/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url>
   
