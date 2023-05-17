@@ -78,11 +78,6 @@
   </url>
   
   <url>
-    <loc>/author/purcell-za/</loc>
-    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/inq23/</loc>
     <lastmod>2023-05-01T00:00:00+00:00</lastmod>
   </url>
@@ -108,12 +103,7 @@
   </url>
   
   <url>
-    <loc>/author/katiyar-t/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/mehr-sa/</loc>
+    <loc>/author/m-singh/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -123,7 +113,12 @@
   </url>
   
   <url>
-    <loc>/author/singh-m/</loc>
+    <loc>/author/sa-mehr/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/t-katiyar/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url>
   
