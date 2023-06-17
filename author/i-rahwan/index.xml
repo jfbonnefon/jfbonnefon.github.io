@@ -5,12 +5,20 @@
     <link>/author/i-rahwan/</link>
       <atom:link href="/author/i-rahwan/index.xml" rel="self" type="application/rss+xml" />
     <description>I Rahwan</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 06 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>I Rahwan</title>
       <link>/author/i-rahwan/</link>
     </image>
+    
+    <item>
+      <title>The moral psychology of Artificial Intelligence</title>
+      <link>/publication/annual23/</link>
+      <pubDate>Tue, 06 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/annual23/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Polarized citizen preferences for the ethical allocation of scarce medical resources in twenty countries</title>
