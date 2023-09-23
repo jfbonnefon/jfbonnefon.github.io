@@ -83,21 +83,6 @@
   </url>
   
   <url>
-    <loc>/author/a-shariff/</loc>
-    <lastmod>2023-06-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/i-rahwan/</loc>
-    <lastmod>2023-06-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/annual23/</loc>
-    <lastmod>2023-06-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/pnasnexus23/</loc>
     <lastmod>2023-05-16T00:00:00+00:00</lastmod>
   </url>
@@ -138,12 +123,22 @@
   </url>
   
   <url>
+    <loc>/author/a-shariff/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/author/b-bago/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/author/e-awad/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/i-rahwan/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -1764,6 +1759,10 @@
   
   <url>
     <loc>/roles/sport/</loc>
+  </url>
+  
+  <url>
+    <loc>/roles/tsmr/</loc>
   </url>
   
   <url>
