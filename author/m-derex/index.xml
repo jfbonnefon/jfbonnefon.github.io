@@ -5,12 +5,20 @@
     <link>/author/m-derex/</link>
       <atom:link href="/author/m-derex/index.xml" rel="self" type="application/rss+xml" />
     <description>M Derex</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 02 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>M Derex</title>
       <link>/author/m-derex/</link>
     </image>
+    
+    <item>
+      <title>Machine culture</title>
+      <link>/publication/nhb23/</link>
+      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/nhb23/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Causal understanding is not necessary for the improvement of culturally evolving technology</title>

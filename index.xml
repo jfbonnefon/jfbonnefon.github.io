@@ -77,6 +77,14 @@
     </item>
     
     <item>
+      <title>Machine culture</title>
+      <link>/publication/nhb23/</link>
+      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/nhb23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The moral psychology of Artificial Intelligence</title>
       <link>/publication/annual24/</link>
       <pubDate>Sat, 09 Sep 2023 00:00:00 +0000</pubDate>
@@ -321,7 +329,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-625189473&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-985467312&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -331,7 +339,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-625189473&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-985467312&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
