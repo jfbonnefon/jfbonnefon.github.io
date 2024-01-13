@@ -77,9 +77,17 @@
     </item>
     
     <item>
+      <title>Toward human-centered AI management: Methodological challenges and future directions</title>
+      <link>/publication/tech24/</link>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/tech24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The moral psychology of Artificial Intelligence</title>
       <link>/publication/annual24/</link>
-      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>/publication/annual24/</guid>
       <description></description>
     </item>
@@ -329,7 +337,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-256314978&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-723645981&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -339,7 +347,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-256314978&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-723645981&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
