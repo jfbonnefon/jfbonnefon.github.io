@@ -5,7 +5,7 @@
     <link>/author/jf-bonnefon/</link>
       <atom:link href="/author/jf-bonnefon/index.xml" rel="self" type="application/rss+xml" />
     <description>JF Bonnefon</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 12 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 07 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>JF Bonnefon</title>
@@ -13,18 +13,26 @@
     </image>
     
     <item>
-      <title>Toward human-centered AI management: Methodological challenges and future directions</title>
-      <link>/publication/tech24/</link>
-      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/tech24/</guid>
+      <title>The moral psychology of Artificial Intelligence</title>
+      <link>/publication/annual24/</link>
+      <pubDate>Wed, 07 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/annual24/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>The moral psychology of Artificial Intelligence</title>
-      <link>/publication/annual24/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/annual24/</guid>
+      <title>Discovering the unknown unknowns of research cartography with high-throughput natural description</title>
+      <link>/publication/bbs23b/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/bbs23b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward human-centered AI management: Methodological challenges and future directions</title>
+      <link>/publication/tech24/</link>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/tech24/</guid>
       <description></description>
     </item>
     
@@ -57,14 +65,6 @@
       <link>/publication/inq23/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
       <guid>/publication/inq23/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Discovering the unknown unknowns of research cartography with high-throughput natural description</title>
-      <link>/publication/bbs23b/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/bbs23b/</guid>
       <description></description>
     </item>
     

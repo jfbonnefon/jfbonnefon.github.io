@@ -34,22 +34,62 @@
   
   <url>
     <loc>/publication-type/2/</loc>
-    <lastmod>2024-01-12T00:00:00+00:00</lastmod>
+    <lastmod>2024-02-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/a-shariff/</loc>
+    <lastmod>2024-02-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2024-01-12T00:00:00+00:00</lastmod>
+    <lastmod>2024-02-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/author/i-rahwan/</loc>
-    <lastmod>2024-01-12T00:00:00+00:00</lastmod>
+    <lastmod>2024-02-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/author/jf-bonnefon/</loc>
-    <lastmod>2024-01-12T00:00:00+00:00</lastmod>
+    <lastmod>2024-02-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2024-02-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2024-02-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/annual24/</loc>
+    <lastmod>2024-02-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/bbs23b/</loc>
+    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/m-singh/</loc>
+    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/sa-mehr/</loc>
+    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/t-katiyar/</loc>
+    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -58,28 +98,8 @@
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2024-01-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2024-01-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/tech24/</loc>
     <lastmod>2024-01-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/a-shariff/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/annual24/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -193,27 +213,7 @@
   </url>
   
   <url>
-    <loc>/publication/bbs23b/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/m-singh/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/bbs23/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/sa-mehr/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/t-katiyar/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url>
   
