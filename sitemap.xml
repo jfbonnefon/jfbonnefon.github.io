@@ -34,36 +34,181 @@
   
   <url>
     <loc>/publication-type/2/</loc>
-    <lastmod>2024-02-07T00:00:00+00:00</lastmod>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/a-shariff/</loc>
-    <lastmod>2024-02-07T00:00:00+00:00</lastmod>
+    <loc>/author/a-akhmedova/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2024-02-07T00:00:00+00:00</lastmod>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/c-longoni/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/c.-greenhow/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/d-acemoglu/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/da-hashimoto/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/e-bilancini/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/f-wall/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/g-gigerenzer/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/author/i-rahwan/</loc>
-    <lastmod>2024-02-07T00:00:00+00:00</lastmod>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/j-holt-lunstad/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/j-jetten/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/j-sutcliffe/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/j-tomlinson/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jac-everett/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/author/jf-bonnefon/</loc>
-    <lastmod>2024-02-07T00:00:00+00:00</lastmod>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jj-van-bavel/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/km-douglas/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/l-butera/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/n-selwyn/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/p-branas-garza/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/p-lunn/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/pam-van-lange/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication_types/</loc>
-    <lastmod>2024-02-07T00:00:00+00:00</lastmod>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/r-viale/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/s-akgun/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/s-johnson/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/s-natale/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/s-suri/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/s-van-der-linden/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/nexus24a/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/v-capraro/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/v-singh/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/a-shariff/</loc>
     <lastmod>2024-02-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -1765,6 +1910,10 @@
   <url>
     <loc>/publication/tar02/</loc>
     <lastmod>2002-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/a-lentsch-a./</loc>
   </url>
   
   <url>
