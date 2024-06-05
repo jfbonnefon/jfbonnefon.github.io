@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>N Köbis | Jean-François Bonnefon</title>
-    <link>/author/n-kobis/</link>
-      <atom:link href="/author/n-kobis/index.xml" rel="self" type="application/rss+xml" />
-    <description>N Köbis</description>
+    <title>V Klockmann | Jean-François Bonnefon</title>
+    <link>/author/v-klockmann/</link>
+      <atom:link href="/author/v-klockmann/index.xml" rel="self" type="application/rss+xml" />
+    <description>V Klockmann</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 04 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>N Köbis</title>
-      <link>/author/n-kobis/</link>
+      <title>V Klockmann</title>
+      <link>/author/v-klockmann/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>/publication/isci24/</link>
       <pubDate>Sun, 04 Jun 2023 00:00:00 +0000</pubDate>
       <guid>/publication/isci24/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bad machines corrupt good morals</title>
-      <link>/publication/nhb21/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/nhb21/</guid>
       <description></description>
     </item>
     
