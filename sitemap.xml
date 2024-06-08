@@ -34,16 +34,56 @@
   
   <url>
     <loc>/publication-type/2/</loc>
-    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-06-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/a-akhmedova/</loc>
-    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+    <loc>/author/a-von-schenk/</loc>
+    <lastmod>2024-06-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
+    <lastmod>2024-06-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/i-rahwan/</loc>
+    <lastmod>2024-06-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jf-bonnefon/</loc>
+    <lastmod>2024-06-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/isci24/</loc>
+    <lastmod>2024-06-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/n-kobis/</loc>
+    <lastmod>2024-06-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2024-06-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2024-06-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/v-klockmann/</loc>
+    <lastmod>2024-06-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/a-akhmedova/</loc>
     <lastmod>2024-05-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -83,11 +123,6 @@
   </url>
   
   <url>
-    <loc>/author/i-rahwan/</loc>
-    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/j-holt-lunstad/</loc>
     <lastmod>2024-05-01T00:00:00+00:00</lastmod>
   </url>
@@ -109,11 +144,6 @@
   
   <url>
     <loc>/author/jac-everett/</loc>
-    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/jf-bonnefon/</loc>
     <lastmod>2024-05-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -149,16 +179,6 @@
   
   <url>
     <loc>/author/pam-van-lange/</loc>
-    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
     <lastmod>2024-05-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -340,26 +360,6 @@
   <url>
     <loc>/author/w-li/</loc>
     <lastmod>2023-06-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/a-von-schenk/</loc>
-    <lastmod>2023-06-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/isci24/</loc>
-    <lastmod>2023-06-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/n-kobis/</loc>
-    <lastmod>2023-06-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/v-klockmann/</loc>
-    <lastmod>2023-06-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>

@@ -5,12 +5,20 @@
     <link>/author/jf-bonnefon/</link>
       <atom:link href="/author/jf-bonnefon/index.xml" rel="self" type="application/rss+xml" />
     <description>JF Bonnefon</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 04 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>JF Bonnefon</title>
       <link>/author/jf-bonnefon/</link>
     </image>
+    
+    <item>
+      <title>Lie detection algorithms disrupt the social dynamics of accusation behavior</title>
+      <link>/publication/isci24/</link>
+      <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/isci24/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The impact of generative artificial intelligence on socioeconomic inequalities and policy making</title>
@@ -57,14 +65,6 @@
       <link>/publication/natcom23/</link>
       <pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate>
       <guid>/publication/natcom23/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lie detection algorithms disrupt the social dynamics of accusation behavior</title>
-      <link>/publication/isci24/</link>
-      <pubDate>Sun, 04 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/isci24/</guid>
       <description></description>
     </item>
     
