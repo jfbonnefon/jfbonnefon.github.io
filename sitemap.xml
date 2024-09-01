@@ -1952,7 +1952,15 @@
   </url>
   
   <url>
+    <loc>/roles/sbs-dir/</loc>
+  </url>
+  
+  <url>
     <loc>/roles/clle/</loc>
+  </url>
+  
+  <url>
+    <loc>/roles/iast-dir/</loc>
   </url>
   
   <url>
