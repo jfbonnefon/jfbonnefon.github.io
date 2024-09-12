@@ -77,6 +77,14 @@
     </item>
     
     <item>
+      <title>Generative AI as a tool for truth</title>
+      <link>/publication/sci24/</link>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/sci24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Lie detection algorithms disrupt the social dynamics of accusation behavior</title>
       <link>/publication/isci24/</link>
       <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
@@ -353,7 +361,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-381647259&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-942617358&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -363,7 +371,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-381647259&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-942617358&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
