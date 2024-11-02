@@ -77,6 +77,14 @@
     </item>
     
     <item>
+      <title>The moral preferences of investors: Experimental evidence</title>
+      <link>/publication/jfe25/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/jfe25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Generative AI as a tool for truth</title>
       <link>/publication/sci24/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
@@ -361,7 +369,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-834275169&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-153842796&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -371,7 +379,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-834275169&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-153842796&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
