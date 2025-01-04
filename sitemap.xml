@@ -34,16 +34,81 @@
   
   <url>
     <loc>/publication-type/2/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/a-landier/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <loc>/author/a-mesoudi/</loc>
+    <lastmod>2025-01-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
+    <lastmod>2025-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jf-bonnefon/</loc>
+    <lastmod>2025-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/m-derex/</loc>
+    <lastmod>2025-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2025-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2025-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/r-boyd/</loc>
+    <lastmod>2025-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/r-mcelreath/</loc>
+    <lastmod>2025-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/procb25/</loc>
+    <lastmod>2025-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/a-shariff/</loc>
+    <lastmod>2025-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/ampsych25/</loc>
+    <lastmod>2025-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/i-rahwan/</loc>
+    <lastmod>2025-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jr-conway/</loc>
+    <lastmod>2025-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/m-dong/</loc>
+    <lastmod>2025-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/a-landier/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -53,22 +118,7 @@
   </url>
   
   <url>
-    <loc>/author/jf-bonnefon/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/p-sastry/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -89,11 +139,6 @@
   
   <url>
     <loc>/author/a-von-schenk/</loc>
-    <lastmod>2024-06-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/i-rahwan/</loc>
     <lastmod>2024-06-04T00:00:00+00:00</lastmod>
   </url>
   
@@ -258,11 +303,6 @@
   </url>
   
   <url>
-    <loc>/author/a-shariff/</loc>
-    <lastmod>2024-02-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/annual24/</loc>
     <lastmod>2024-02-07T00:00:00+00:00</lastmod>
   </url>
@@ -285,11 +325,6 @@
   <url>
     <loc>/author/t-katiyar/</loc>
     <lastmod>2024-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/m-dong/</loc>
-    <lastmod>2024-01-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -338,22 +373,12 @@
   </url>
   
   <url>
-    <loc>/author/m-derex/</loc>
-    <lastmod>2023-11-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/nhb23/</loc>
     <lastmod>2023-11-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/author/py-oudeyer/</loc>
-    <lastmod>2023-11-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/r-mcelreath/</loc>
     <lastmod>2023-11-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -783,11 +808,6 @@
   </url>
   
   <url>
-    <loc>/author/a-mesoudi/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/a-mislove/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -909,11 +929,6 @@
   
   <url>
     <loc>/pubs/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/r-boyd/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JR Conway | Jean-François Bonnefon</title>
+    <link>/author/jr-conway/</link>
+      <atom:link href="/author/jr-conway/index.xml" rel="self" type="application/rss+xml" />
+    <description>JR Conway</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 02 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>JR Conway</title>
+      <link>/author/jr-conway/</link>
+    </image>
+    
+    <item>
+      <title>Fears about Artificial Intelligence across 20 countries and six domains of application</title>
+      <link>/publication/ampsych25/</link>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/ampsych25/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

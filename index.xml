@@ -77,6 +77,22 @@
     </item>
     
     <item>
+      <title>Social learning preserves both useful and useless theories by canalizing learners&#39; exploration</title>
+      <link>/publication/procb25/</link>
+      <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/procb25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fears about Artificial Intelligence across 20 countries and six domains of application</title>
+      <link>/publication/ampsych25/</link>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/ampsych25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The moral preferences of investors: Experimental evidence</title>
       <link>/publication/jfe25/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
@@ -369,7 +385,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-138764529&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-684739152&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -379,7 +395,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-138764529&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-684739152&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
