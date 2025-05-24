@@ -5,12 +5,20 @@
     <link>/author/a-shariff/</link>
       <atom:link href="/author/a-shariff/index.xml" rel="self" type="application/rss+xml" />
     <description>A Shariff</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 02 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 24 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>A Shariff</title>
       <link>/author/a-shariff/</link>
     </image>
+    
+    <item>
+      <title>The science fiction science method</title>
+      <link>/publication/nature25/</link>
+      <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/nature25/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Fears about Artificial Intelligence across 20 countries and six domains of application</title>
