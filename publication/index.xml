@@ -5,12 +5,20 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 24 May 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 06 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>Rewards and punishments help humans overcome biases against cooperation partners assumed to be machines</title>
+      <link>/publication/isci25/</link>
+      <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/isci25/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The science fiction science method</title>
@@ -1257,14 +1265,6 @@
       <link>/publication/tar02/</link>
       <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
       <guid>/publication/tar02/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rewards and punishments help humans overcome biases against cooperation partners assumed to be machines</title>
-      <link>/publication/isci25/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/publication/isci25/</guid>
       <description></description>
     </item>
     

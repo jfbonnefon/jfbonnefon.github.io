@@ -77,6 +77,14 @@
     </item>
     
     <item>
+      <title>Rewards and punishments help humans overcome biases against cooperation partners assumed to be machines</title>
+      <link>/publication/isci25/</link>
+      <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/isci25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The science fiction science method</title>
       <link>/publication/nature25/</link>
       <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
@@ -393,7 +401,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-981735246&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-374819265&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -403,7 +411,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-981735246&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-374819265&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -2153,14 +2161,6 @@ Three
       <link>/roles/irb/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/roles/irb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rewards and punishments help humans overcome biases against cooperation partners assumed to be machines</title>
-      <link>/publication/isci25/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/publication/isci25/</guid>
       <description></description>
     </item>
     
