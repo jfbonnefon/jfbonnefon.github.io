@@ -5,7 +5,7 @@
     <link>/author/i-rahwan/</link>
       <atom:link href="/author/i-rahwan/index.xml" rel="self" type="application/rss+xml" />
     <description>I Rahwan</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 17 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 29 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>I Rahwan</title>
@@ -13,18 +13,26 @@
     </image>
     
     <item>
+      <title>Delegation to artificial intelligence can increase dishonest behaviour</title>
+      <link>/publication/nature25b/</link>
+      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/nature25b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Heterogeneous preferences and asymmetric insights for AI use among welfare claimants and non-claimants</title>
       <link>/publication/natcom25/</link>
-      <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate>
       <guid>/publication/natcom25/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The science fiction science method</title>
-      <link>/publication/nature25/</link>
+      <link>/publication/nature25a/</link>
       <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
-      <guid>/publication/nature25/</guid>
+      <guid>/publication/nature25a/</guid>
       <description></description>
     </item>
     

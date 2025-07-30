@@ -77,9 +77,17 @@
     </item>
     
     <item>
+      <title>Delegation to artificial intelligence can increase dishonest behaviour</title>
+      <link>/publication/nature25b/</link>
+      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/nature25b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Heterogeneous preferences and asymmetric insights for AI use among welfare claimants and non-claimants</title>
       <link>/publication/natcom25/</link>
-      <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate>
       <guid>/publication/natcom25/</guid>
       <description></description>
     </item>
@@ -102,9 +110,9 @@
     
     <item>
       <title>The science fiction science method</title>
-      <link>/publication/nature25/</link>
+      <link>/publication/nature25a/</link>
       <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
-      <guid>/publication/nature25/</guid>
+      <guid>/publication/nature25a/</guid>
       <description></description>
     </item>
     
@@ -417,7 +425,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-943681752&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-827956431&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -427,7 +435,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-943681752&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-827956431&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
