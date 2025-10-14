@@ -34,12 +34,42 @@
   
   <url>
     <loc>/publication-type/2/</loc>
-    <lastmod>2025-07-29T00:00:00+00:00</lastmod>
+    <lastmod>2025-10-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2025-07-29T00:00:00+00:00</lastmod>
+    <lastmod>2025-10-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/b-bago/</loc>
+    <lastmod>2025-10-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jf-bonnefon/</loc>
+    <lastmod>2025-10-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/p-muller/</loc>
+    <lastmod>2025-10-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2025-10-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2025-10-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/ncc25/</loc>
+    <lastmod>2025-10-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -63,22 +93,7 @@
   </url>
   
   <url>
-    <loc>/author/jf-bonnefon/</loc>
-    <lastmod>2025-07-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/n-kobis/</loc>
-    <lastmod>2025-07-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2025-07-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
     <lastmod>2025-07-29T00:00:00+00:00</lastmod>
   </url>
   
@@ -200,11 +215,6 @@
   <url>
     <loc>/publication/jfe25/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/b-bago/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>

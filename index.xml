@@ -77,6 +77,14 @@
     </item>
     
     <item>
+      <title>Using generative AI to increase sceptics&#39; engagement with climate science</title>
+      <link>/publication/ncc25/</link>
+      <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/ncc25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Delegation to artificial intelligence can increase dishonest behaviour</title>
       <link>/publication/nature25b/</link>
       <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
@@ -425,7 +433,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-823149765&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-364951872&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -435,7 +443,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-823149765&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-364951872&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
