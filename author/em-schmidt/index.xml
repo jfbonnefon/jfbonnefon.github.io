@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>C Bersch | Jean-François Bonnefon</title>
-    <link>/author/c-bersch/</link>
-      <atom:link href="/author/c-bersch/index.xml" rel="self" type="application/rss+xml" />
-    <description>C Bersch</description>
+    <title>EM Schmidt | Jean-François Bonnefon</title>
+    <link>/author/em-schmidt/</link>
+      <atom:link href="/author/em-schmidt/index.xml" rel="self" type="application/rss+xml" />
+    <description>EM Schmidt</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 27 Oct 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>C Bersch</title>
-      <link>/author/c-bersch/</link>
+      <title>EM Schmidt</title>
+      <link>/author/em-schmidt/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>/publication/chb25/</link>
       <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
       <guid>/publication/chb25/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Delegation to artificial intelligence can increase dishonest behaviour</title>
-      <link>/publication/nature25b/</link>
-      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>/publication/nature25b/</guid>
       <description></description>
     </item>
     
