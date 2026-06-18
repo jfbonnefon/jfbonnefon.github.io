@@ -77,6 +77,14 @@
     </item>
     
     <item>
+      <title>Whistleblowers can contain the unethical externalities of human-AI delegation</title>
+      <link>/publication/pnas26/</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/pnas26/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Fears about Artificial Intelligence across 20 countries and six domains of application</title>
       <link>/publication/ampsych26/</link>
       <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
@@ -441,7 +449,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-198274365&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-583169274&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -451,7 +459,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-198274365&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-583169274&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
