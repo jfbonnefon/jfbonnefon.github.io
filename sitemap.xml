@@ -34,7 +34,37 @@
   
   <url>
     <loc>/publication-type/2/</loc>
-    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+    <lastmod>2026-09-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2026-09-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/b-bago/</loc>
+    <lastmod>2026-09-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/nmi26/</loc>
+    <lastmod>2026-09-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jf-bonnefon/</loc>
+    <lastmod>2026-09-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2026-09-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2026-09-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -43,27 +73,7 @@
   </url>
   
   <url>
-    <loc>/authors/</loc>
-    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/jf-bonnefon/</loc>
-    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/n-kobis/</loc>
-    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -100,11 +110,6 @@
   <url>
     <loc>/author/m-dong/</loc>
     <lastmod>2026-02-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/b-bago/</loc>
-    <lastmod>2025-10-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
