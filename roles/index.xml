@@ -21,6 +21,14 @@
     </item>
     
     <item>
+      <title>Area Chair</title>
+      <link>/roles/ecai27/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/roles/ecai27/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Chair</title>
       <link>/roles/hceres/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -62,9 +70,9 @@
     
     <item>
       <title>Director</title>
-      <link>/roles/iast-dir/</link>
+      <link>/roles/iast-dir/index-5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/roles/iast-dir/</guid>
+      <guid>/roles/iast-dir/index-5/</guid>
       <description></description>
     </item>
     
@@ -78,9 +86,9 @@
     
     <item>
       <title>Leader</title>
-      <link>/roles/iast-xm/</link>
+      <link>/roles/iast-xm/index-16/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/roles/iast-xm/</guid>
+      <guid>/roles/iast-xm/index-16/</guid>
       <description></description>
     </item>
     
@@ -94,9 +102,9 @@
     
     <item>
       <title>Member</title>
-      <link>/roles/board-aniti/</link>
+      <link>/roles/board-aniti/index-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/roles/board-aniti/</guid>
+      <guid>/roles/board-aniti/index-2/</guid>
       <description></description>
     </item>
     
@@ -182,9 +190,9 @@
     
     <item>
       <title>Member</title>
-      <link>/roles/wtr/</link>
+      <link>/roles/wtr/index-8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/roles/wtr/</guid>
+      <guid>/roles/wtr/index-8/</guid>
       <description></description>
     </item>
     

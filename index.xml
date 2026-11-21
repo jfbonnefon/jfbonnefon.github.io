@@ -158,9 +158,9 @@
     
     <item>
       <title>The science fiction science method</title>
-      <link>/publication/nature25a/</link>
+      <link>/publication/nature25a/index-13/</link>
       <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
-      <guid>/publication/nature25a/</guid>
+      <guid>/publication/nature25a/index-13/</guid>
       <description></description>
     </item>
     
@@ -430,9 +430,9 @@
     
     <item>
       <title>Universals and variations in moral decisions made in 42 countries by 70,000 participants</title>
-      <link>/publication/pnas20/</link>
+      <link>/publication/pnas20/index-14/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/pnas20/</guid>
+      <guid>/publication/pnas20/index-14/</guid>
       <description></description>
     </item>
     
@@ -465,7 +465,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-613974852&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-546731892&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -475,7 +475,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-613974852&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-546731892&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -995,9 +995,9 @@ Three
     
     <item>
       <title>Cooperating with machines</title>
-      <link>/publication/natcom18/</link>
+      <link>/publication/natcom18/index-9/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/natcom18/</guid>
+      <guid>/publication/natcom18/index-9/</guid>
       <description></description>
     </item>
     
@@ -2037,6 +2037,14 @@ Three
     </item>
     
     <item>
+      <title>Area Chair</title>
+      <link>/roles/ecai27/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/roles/ecai27/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Chair</title>
       <link>/roles/hceres/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -2078,9 +2086,9 @@ Three
     
     <item>
       <title>Director</title>
-      <link>/roles/iast-dir/</link>
+      <link>/roles/iast-dir/index-5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/roles/iast-dir/</guid>
+      <guid>/roles/iast-dir/index-5/</guid>
       <description></description>
     </item>
     
@@ -2094,9 +2102,9 @@ Three
     
     <item>
       <title>Leader</title>
-      <link>/roles/iast-xm/</link>
+      <link>/roles/iast-xm/index-16/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/roles/iast-xm/</guid>
+      <guid>/roles/iast-xm/index-16/</guid>
       <description></description>
     </item>
     
@@ -2110,9 +2118,9 @@ Three
     
     <item>
       <title>Member</title>
-      <link>/roles/board-aniti/</link>
+      <link>/roles/board-aniti/index-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/roles/board-aniti/</guid>
+      <guid>/roles/board-aniti/index-2/</guid>
       <description></description>
     </item>
     
@@ -2198,9 +2206,9 @@ Three
     
     <item>
       <title>Member</title>
-      <link>/roles/wtr/</link>
+      <link>/roles/wtr/index-8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/roles/wtr/</guid>
+      <guid>/roles/wtr/index-8/</guid>
       <description></description>
     </item>
     
